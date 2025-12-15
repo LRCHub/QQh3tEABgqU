@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "楽園",
+  "base_artist": "THE YELLOW MONKEY",
+  "createdAt": "2025-12-15T09:31:14.526969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/01_楽園_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/02_楽園_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/03_楽園_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/04_楽園_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/05_楽園_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "光田康典",
+      "has_synced": false,
+      "path": "select/06_楽園_光田康典.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/07_楽園_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/08_楽園_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "楽園 (Instrmental)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/09_楽園_(Instrmental)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": true,
+      "path": "select/10_楽園_THE_YELLOW_MONKEY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/11_楽園_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/12_楽園_mihimaru_GT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "楽園 - Paradise",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/13_楽園_-_Paradise_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "楽園 - Rakuen",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/14_楽園_-_Rakuen_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "楽園",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/15_楽園_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "楽園",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": false,
+      "path": "select/pl_01_楽園_THE_YELLOW_MONKEY.txt"
+    }
+  ]
+}
